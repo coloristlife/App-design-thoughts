@@ -18,7 +18,8 @@
   example:
   - https://help.obsidian.md/plugins/daily-notes
   - 
-
+- ### list out all the notes to interact with
+  examples: https://obsidian.md/
 
 # Apps to get the inspiration:
 ## https://iki.ai/
