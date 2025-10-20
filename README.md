@@ -1,6 +1,6 @@
 # App-design-thoughts
 ## Requirements
-### Content supported:
+- ### Content supported:
 - text
 - URL
 - webpage
@@ -10,9 +10,9 @@
 - Notes
 
 ## Functions
-### long term memory
+- ### long term memory
 
-### instructions in the form of voice and text 
+- ### instructions in the form of voice and text 
 
 
 # Apps to get the inspiration:
