@@ -12,10 +12,19 @@
 ## Functions
 - ### long term memory
 
-- ### instructions in the form of voice and text 
+- ### instructions in the form of voice and text
+
+- ### use the knowledge graph to orgamize the knowleges, it also can zoom in.
+  example:
+  - https://help.obsidian.md/plugins/daily-notes
+  - 
 
 
 # Apps to get the inspiration:
+## https://iki.ai/
+
+## https://obsidian.md/
+
 ## recall https://www.getrecall.ai/
 
 Your self-organizing knowledge base, where you can summarize and chat with any online content.
