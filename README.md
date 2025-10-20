@@ -44,3 +44,6 @@ Your self-organizing knowledge base, where you can summarize and chat with any o
 | **TLDR This**| Automatic bullet points                                 | Large PDFs                                    | Free or $5/month                          |
 | **Genei**    | Multi-document summarization, notes                     | Research assistants                           | Free Trial or $14.99/month                |
 | **Zotero**   | PDF annotation, metadata extraction, note organization  | Open-source reference management and summarization | Free with cloud storage options available |
+
+## https://www.shadowreader.io/open
+turn highlight to insight
