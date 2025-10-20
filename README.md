@@ -1,6 +1,6 @@
 # App-design-thoughts
-## requirements
-### content supported:
+## Requirements
+### Content supported:
 - text
 - URL
 - webpage
@@ -9,7 +9,13 @@
 - videos
 - Notes
 
-# App to get the inspiration:
+## Functions
+### long term memory
+
+### instructions in the form of voice and text 
+
+
+# Apps to get the inspiration:
 ## recall https://www.getrecall.ai/
 
 Your self-organizing knowledge base, where you can summarize and chat with any online content.
