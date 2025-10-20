@@ -1,5 +1,13 @@
 # App-design-thoughts
-
+## requirements
+### content supported:
+- text
+- URL
+- webpage
+- pdf
+- text in the image
+- videos
+- Notes
 
 # App to get the inspiration:
 ## recall https://www.getrecall.ai/
