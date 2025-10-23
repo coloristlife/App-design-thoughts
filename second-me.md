@@ -1,5 +1,8 @@
 
 # Inspiration
+## second me
+Train your AI self, amplify you, bridge the world
+https://github.com/mindverse/Second-Me
 
 ## Human 3 methodology
 The Cure To A Mediocre Life (Become Multidimensionally Jacked)
@@ -11,4 +14,7 @@ https://thedankoe.com/letters/a-complete-knowledge-base-of-human-3-0/
 HUMAN 3.0 – A Map To Reach The Top 1%
 https://letters.thedankoe.com/p/human-30-a-map-to-reach-the-top-1
 
-## 
+## min context
+MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
+
+https://github.com/volcengine/MineContext
